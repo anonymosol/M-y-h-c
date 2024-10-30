@@ -1,10 +1,7 @@
-Em của ngày hôm qua
-Sad
-Lonely
-Yummy
-Star fire
-Em của ngày hôm qua
-Yummy
-UP
-Matsuri
-Sad
+Name: Vin
+D 1000
+W 2000
+D 3000
+D 2000
+W 3000
+D 500

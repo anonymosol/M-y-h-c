@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book id="1">
+        <title>Python Programming</title>
+        <author>Alson</author>
+        <year>2020</year>
+    </book>
+    <book id="2">
+        <title>Python in Machine Learning</title>
+        <author>Vin</author>
+        <year>2022</year>
+    </book>
+    <book id="3">
+        <title>Data analysis in Python</title>
+        <author>Jacky</author>
+        <year>2023</year>
+    </book>
+</library>

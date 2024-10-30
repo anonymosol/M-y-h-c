@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+    <Terminal id="00000011">
+        <TermIP>10.1.12.15</TermIP>
+        <branchNumber>1234</branchNumber>
+        <TerminalType>Auto Banking</TerminalType>
+        <autorestartmode>1</autorestartmode>
+    </Terminal>
+</Config>
